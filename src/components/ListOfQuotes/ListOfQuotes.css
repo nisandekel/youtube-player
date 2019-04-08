@@ -1,0 +1,14 @@
+
+.quote{
+    transition: 1.5s;
+
+}
+
+
+.quote:hover{
+    font-size:18px;
+}
+
+.quote:active{
+    background-color:green;
+}

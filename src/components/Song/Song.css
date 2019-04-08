@@ -1,0 +1,13 @@
+
+.song{
+    transition: 1.5s;
+    margin-top:20px;
+}
+
+.song:hover{
+    font-size:18px;
+}
+
+.song:active{
+    background-color:green;
+}

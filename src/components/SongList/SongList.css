@@ -1,0 +1,25 @@
+.list-of-songs{
+    border: 1px solid silver;
+    border-radius: 12px;
+    margin-right:50px;
+    height: 530px;
+    width:290px;
+    margin-top:40px;
+}
+
+.list-of-songs input{
+    transition: 3s;
+    margin-top: 20px;
+    margin-left:40px;
+    border-radius:5px;
+    padding: 10px;
+    width:11vw;
+    outline: none;
+}
+
+.list-of-songs input:hover{
+    width:15vw;
+}
+
+
+
